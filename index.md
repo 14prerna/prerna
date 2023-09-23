@@ -19,7 +19,7 @@ I graduated with Btech in Computer Science and Engineering Department from VTU, 
 
 ### Education
 
-- **Ms in Computer Science and Engineering**<br>_2023 - Present_ &#124; \*_<br>[Indian Institute of Technology Bombay](https://www.iitb.ac.in/)
+- **MS in Computer Science and Engineering**<br>_2023 - Present_ &#124; \*_<br>[Indian Institute of Technology Bombay](https://www.iitb.ac.in/)
 - **B.Tech in Computer Science And Engineering**<br>_2016 - 2020_ &#124; <br>[Visvesvarya Technology University](https://vtu.ac.in/)
 - **HS in Science**<br>_2014 - 2016_ &#124; <br>[R.P.S School](https://rpspublicschool.org/)
 
@@ -34,7 +34,7 @@ The courses that I have taken in IIT Bombay are listed below in reverse chronolo
 **(*)indicates it's an ongoing course**
 
 - **CS 683\*** : Advance Computer Architecture, Autumn 2023
-- **CS 699\*** : Software LAB, Autumn 2023
+- **CS 699\*** : Software Lab, Autumn 2023
 - **CS 744\*** : Design and Engineering of Computing Systems, Autumn 2023
 
 
