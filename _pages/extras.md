@@ -1,9 +1,8 @@
 ---
 permalink: /extras/
-title: "Extra"
+title: "Me and My thoughts"
 ---
 
-Just like extra time in football which can change the match, below mention are some 
-resources that I find intersting.
+Hi!!! okie Bye!!
 
-- On the metal Podcast [link](https://oxide.computer/podcasts/on-the-metal)
+plzz no rishtaass!!!(I have a boyfriend)
