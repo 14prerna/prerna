@@ -92,8 +92,3 @@ ul {
   <div class="pub-venue">MICRO 2025</div>
 </div>
 
-<div class="pub-card">
-  <div class="pub-title">Dummy Paper Title 2</div>
-  <div class="pub-authors">Author A, Author B</div>
-  <div class="pub-venue">ISCA 2024</div>
-</div>
