@@ -12,7 +12,7 @@ permalink: /
 #     text: "More text here."
 ---
 
-Hey, I'm currently a first year MS. student in IIT Bombay's [Computer Science and Engineering Department](https://www.cse.iitb.ac.in/). I am working with [Prof. Biswa Panda](https://www.cse.iitb.ac.in/~biswa/) exploring Computer architecture security.
+Hey, I'm currently a third year MS. student in IIT Bombay's [Computer Science and Engineering Department](https://www.cse.iitb.ac.in/). I am working with [Prof. Biswa Panda](https://www.cse.iitb.ac.in/~biswa/) exploring Computer architecture security.
 
 I graduated with Btech in Computer Science and Engineering Department from VTU, Bangalore in Oct 2020. After that I worked as an API developer at [Infosys](https://www.infosys.com/) for about one and a half year.
 
