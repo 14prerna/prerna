@@ -13,7 +13,7 @@ permalink: /publications/
     <img src="/assets/images/micro.jpeg" alt="MICRO Logo" width="80" />
     <div>
       <strong>Drishti: Do Not Forget Slicing While Designing Last-Level Cache Replacement Policies for Many-Core Systems</strong><br />
-     Sweta,<a href="#">Prerna Priyadarshini</a>,Biswabandan Panda<br />
+     Sweta, <a href="#">Prerna Priyadarshini</a>, Biswabandan Panda<br />
       <em>In 58th IEEE/ACM International Symposium on Microarchitecture (MICRO'25)</em><br />
       <a href="">
           PDF
