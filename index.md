@@ -87,8 +87,9 @@ ul {
 ## 📚 Publications
 
 <div class="pub-card">
-  <div class="pub-title">Dummy Paper Title 1</div>
-  <div class="pub-authors">Author A, Author B</div>
-  <div class="pub-venue">MICRO 2025</div>
+  <div class="pub-title">Drishti: Do Not Forget Slicing While Designing Last-Level Cache Replacement Policies for Many-Core Systems</div>
+  <div class="pub-authors">Sweta,Prerna Priyadarshini, Biswabandan Panda</div>
+  <div class="pub-venue">In 58th IEEE/ACM International Symposium on Microarchitecture (MICRO'25)</div>
 </div>
+
 
