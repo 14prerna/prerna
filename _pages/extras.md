@@ -1,63 +1,71 @@
 ---
-permalink: /publications/
-# title: "Me and My thoughts"
+layout: single
+title: "Education & Coursework Timeline"
+permalink: /timeline/
+classes: wide
 ---
 
-<!-- Hi!!! THOUGHTS ARE SLEEPING!! okie Bye!! -->
-## Publications
+<style>
+.timeline-container {
+  border-left: 3px solid #000;
+  margin-left: 20px;
+  padding-left: 20px;
+}
+.timeline-entry {
+  margin-bottom: 30px;
+  position: relative;
+}
+.timeline-entry::before {
+  content: '';
+  position: absolute;
+  left: -9px;
+  top: 3px;
+  height: 10px;
+  width: 10px;
+  background-color: #000;
+  border-radius: 50%;
+}
+.timeline-title {
+  font-weight: bold;
+  font-size: 1.1em;
+  color: #000;
+}
+.timeline-subtitle {
+  font-style: italic;
+  color: #666;
+  margin-bottom: 5px;
+}
+.course-list {
+  margin-top: 8px;
+  margin-left: 15px;
+}
+</style>
 
-<<<<<<< HEAD
-<div style="display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #333; padding-bottom: 1rem; margin-bottom: 1rem;">
+## 📘 Academic Timeline
 
-  <!-- Left: Logo + Details -->
-  <div style="display: flex; align-items: flex-start; gap: 16px;">
-    <img src="/assets/images/micro.jpeg" alt="MICRO Logo" width="80" />
-    <div>
-      <strong>Drishti: Do Not Forget Slicing While Designing Last-Level Cache Replacement Policies for Many-Core Systems</strong><br />
-     Sweta,<a href="#">Prerna Priyadarshini</a>,Biswabandan Panda</em><br />
-      <em>In 58th IEEE/ACM International Symposium on Microarchitecture (MICRO'25)</em><br />
-      <a href="">
-          PDF
-        </button>
-      </a>
-    </div>
+<div class="timeline-container">
+
+  <div class="timeline-entry">
+    <div class="timeline-title">MS in Computer Science and Engineering</div>
+    <div class="timeline-subtitle">Indian Institute of Technology Bombay | 2023 – Present</div>
+    <ul class="course-list">
+      <li>CS 683: Advanced Computer Architecture</li>
+      <li>CS 699: Software Lab</li>
+      <li>CS 744: Design and Engineering of Computing Systems</li>
+      <li>CS 684: Embedded Systems</li>
+      <li>CS 695: Topics in Virtualization and Cloud Computing</li>
+      <li>CS 773: Computer Architecture for Performance and Security</li>
+    </ul>
   </div>
 
-  <!-- Right: Year -->
-  <div style="font-size: 1.5rem; color: #888; margin-left: 1rem;">
-    2025
+  <div class="timeline-entry">
+    <div class="timeline-title">B.Tech in Computer Science and Engineering</div>
+    <div class="timeline-subtitle">Visvesvaraya Technological University, Bangalore | 2016 – 2020</div>
+  </div>
+
+  <div class="timeline-entry">
+    <div class="timeline-title">Higher Secondary (Science)</div>
+    <div class="timeline-subtitle">R.P.S School | 2014 – 2016</div>
   </div>
 
 </div>
-
-
-
-
-=======
-<div style="display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #333; padding-bottom: 1rem; margin-bottom: 1rem;">
-
-  <!-- Left: Logo + Details -->
-  <div style="display: flex; align-items: flex-start; gap: 16px;">
-    <img src="/assets/images/micro.jpeg" alt="MICRO Logo" width="80" />
-    <div>
-      <strong>Drishti: Do Not Forget Slicing While Designing Last-Level Cache Replacement Policies for Many-Core Systems</strong><br />
-     Sweta, <a href="#">Prerna Priyadarshini</a>, Biswabandan Panda<br />
-      <em>In 58th IEEE/ACM International Symposium on Microarchitecture (MICRO'25)</em><br />
-      <a href="">
-          PDF
-<!--         </button> -->
-      </a>
-    </div>
-  </div>
-
-  <!-- Right: Year -->
-  <div style="font-size: 1.5rem; color: #888; margin-left: 1rem;">
-    2025
-  </div>
-
-</div>
-
-
-
-
->>>>>>> 0a0a96866d4f1453f21a8864d3f85d26d3bd4316
