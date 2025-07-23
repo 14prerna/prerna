@@ -33,9 +33,12 @@ I graduated with Btech in Computer Science and Engineering Department from VTU, 
 The courses that I have taken in IIT Bombay are listed below in reverse chronological order.
 **(*)indicates it's an ongoing course**
 
-- **CS 683\*** : Advance Computer Architecture, Autumn 2023
-- **CS 699\*** : Software Lab, Autumn 2023
-- **CS 744\*** : Design and Engineering of Computing Systems, Autumn 2023
+- **CS 683\*** : Advance Computer Architecture
+- **CS 699\*** : Software Lab
+- **CS 744\*** : Design and Engineering of Computing Systems
+- **CS 684\*** : Embedded Systems
+- **CS 695\*** :  Topics in Virtualization and Cloud Computing
+- **CS 773\*** : Computer Architecture for Performance and Security
 
 
 <!-- ### Teaching Assistantship
