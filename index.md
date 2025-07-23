@@ -30,8 +30,7 @@ I graduated with Btech in Computer Science and Engineering Department from VTU, 
 
 ### Courses
 
-The courses that I have taken in IIT Bombay are listed below in reverse chronological order.
-**(*)indicates it's an ongoing course**
+The courses that I have taken in IIT Bombay are listed below.
 
 - **CS 683** : Advance Computer Architecture
 - **CS 699** : Software Lab
