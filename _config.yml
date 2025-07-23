@@ -28,7 +28,12 @@ search: true
 markdown: kramdown
 # remote_theme: mmistakes/minimal-mistakes
 # remote_theme: mmistakes/minimal-mistakes ← comment or remove this
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
 # Outputting
 permalink: /:categories/:title/
 #paginate: 5 # amount of posts to show
