@@ -80,7 +80,7 @@ ul {
 <div class="news-box">
   <ul>
     <li><strong>[July 2025]</strong> Shortlisted as a finalist for the Qualcomm Innovation Fellowship.</li>
-    <li><strong>[June 2025]</strong> Paper accepted at MICRO.</li>
+    <li><strong>[June 2025]</strong> "Drishti" accepted at MICRO 2025.</li>
   </ul>
 </div>
 
