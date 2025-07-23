@@ -1,0 +1,29 @@
+---
+---
+
+@import "minimal-mistakes";
+
+body {
+  background: #fff;
+  color: #111;
+  font-family: "Helvetica Neue", sans-serif;
+}
+
+a {
+  color: #000;
+  text-decoration: underline;
+}
+a:hover {
+  color: #555;
+}
+
+.site-header,
+.site-footer {
+  background: #000;
+  color: #fff;
+}
+
+.publication-entry, .news-entry {
+  border-bottom: 1px solid #ccc;
+  padding: 1em 0;
+}
