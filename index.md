@@ -70,7 +70,7 @@ ul {
 <div class="research-box">
   <h2>🔬 Research Interests</h2>
   <ul>
-    <li>Assessing the security guarantees provided by state-of-the-art dynamic Last Level Cache (LLC) partitioning policies.</li>
+    <li>Assessing the security guarantees provided by state-of-the-art dynamic last-level Cache (LLC) partitioning techniques.</li>
     <li>Studying the interaction of state-of-the-art replacement policies with sliced LLCs in many-core systems.</li>
   </ul>
 </div>
@@ -79,8 +79,8 @@ ul {
 
 <div class="news-box">
   <ul>
-    <li><strong>[July 2025]</strong> Shortlisted as a finalist for the Qualcomm Innovation Fellowship.</li>
-    <li><strong>[June 2025]</strong> "Drishti" accepted at MICRO 2025.</li>
+    <li><strong>[July 2025]</strong> "Drishti" accepted at MICRO 2025. </li>
+    <li><strong>[June 2025]</strong>Shortlisted as a finalist for the Qualcomm Innovation Fellowship.</li>
   </ul>
 </div>
 
