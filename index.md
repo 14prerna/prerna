@@ -70,7 +70,7 @@ ul {
 <div class="research-box">
   <h2>🔬 Research Interests</h2>
   <ul>
-    <li>Assessing the security guarantees provided by state-of-the-art dynamic last-level Cache (LLC) partitioning techniques.</li>
+    <li>Assessing the security guarantees provided by state-of-the-art dynamic last-level cache (LLC) partitioning techniques.</li>
     <li>Studying the interaction of state-of-the-art replacement policies with sliced LLCs in many-core systems.</li>
   </ul>
 </div>
