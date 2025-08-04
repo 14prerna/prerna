@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Education & Coursework Timeline"
-permalink: /timeline/
+permalink: /education/
 classes: wide
 ---
 
